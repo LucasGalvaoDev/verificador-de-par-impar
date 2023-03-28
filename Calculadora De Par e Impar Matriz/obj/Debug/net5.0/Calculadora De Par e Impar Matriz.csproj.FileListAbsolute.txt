@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\HelloWorld\Calculadora De Par e Impar Matriz\Calculadora De Par e Impar Matriz\bin\Debug\net5.0\Calculadora De Par e Impar Matriz.exe
+C:\Users\lucas\Desktop\HelloWorld\Calculadora De Par e Impar Matriz\Calculadora De Par e Impar Matriz\bin\Debug\net5.0\Calculadora De Par e Impar Matriz.deps.json
+C:\Users\lucas\Desktop\HelloWorld\Calculadora De Par e Impar Matriz\Calculadora De Par e Impar Matriz\bin\Debug\net5.0\Calculadora De Par e Impar Matriz.runtimeconfig.json
+C:\Users\lucas\Desktop\HelloWorld\Calculadora De Par e Impar Matriz\Calculadora De Par e Impar Matriz\bin\Debug\net5.0\Calculadora De Par e Impar Matriz.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\HelloWorld\Calculadora De Par e Impar Matriz\Calculadora De Par e Impar Matriz\bin\Debug\net5.0\Calculadora De Par e Impar Matriz.dll
+C:\Users\lucas\Desktop\HelloWorld\Calculadora De Par e Impar Matriz\Calculadora De Par e Impar Matriz\bin\Debug\net5.0\ref\Calculadora De Par e Impar Matriz.dll
+C:\Users\lucas\Desktop\HelloWorld\Calculadora De Par e Impar Matriz\Calculadora De Par e Impar Matriz\bin\Debug\net5.0\Calculadora De Par e Impar Matriz.pdb
+C:\Users\lucas\Desktop\HelloWorld\Calculadora De Par e Impar Matriz\Calculadora De Par e Impar Matriz\obj\Debug\net5.0\Calculadora De Par e Impar Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\HelloWorld\Calculadora De Par e Impar Matriz\Calculadora De Par e Impar Matriz\obj\Debug\net5.0\Calculadora De Par e Impar Matriz.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\HelloWorld\Calculadora De Par e Impar Matriz\Calculadora De Par e Impar Matriz\obj\Debug\net5.0\Calculadora De Par e Impar Matriz.AssemblyInfo.cs
+C:\Users\lucas\Desktop\HelloWorld\Calculadora De Par e Impar Matriz\Calculadora De Par e Impar Matriz\obj\Debug\net5.0\Calculadora De Par e Impar Matriz.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\HelloWorld\Calculadora De Par e Impar Matriz\Calculadora De Par e Impar Matriz\obj\Debug\net5.0\Calculadora De Par e Impar Matriz.dll
+C:\Users\lucas\Desktop\HelloWorld\Calculadora De Par e Impar Matriz\Calculadora De Par e Impar Matriz\obj\Debug\net5.0\ref\Calculadora De Par e Impar Matriz.dll
+C:\Users\lucas\Desktop\HelloWorld\Calculadora De Par e Impar Matriz\Calculadora De Par e Impar Matriz\obj\Debug\net5.0\Calculadora De Par e Impar Matriz.pdb
+C:\Users\lucas\Desktop\HelloWorld\Calculadora De Par e Impar Matriz\Calculadora De Par e Impar Matriz\obj\Debug\net5.0\Calculadora De Par e Impar Matriz.genruntimeconfig.cache
